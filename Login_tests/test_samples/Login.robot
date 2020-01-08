@@ -6,7 +6,7 @@ Library        util.py
 ***Variables***
 ${Server_URL}       http://39.107.96.138:3000/
 ${Browser}          chrome
-${Username }        user1
+${Username }        user0
 ${Password}         123456
 
 ***Keywords***
